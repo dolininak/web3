@@ -1,6 +1,6 @@
 *{margin:0;padding:0;}
 body{font-family:roboto;background-color: #FFFACD;}
-@media (max-width:767px){
+@media screen and (max-width:767px){
     .hjk.container{
         display: flex;
         flex-direction: column;
